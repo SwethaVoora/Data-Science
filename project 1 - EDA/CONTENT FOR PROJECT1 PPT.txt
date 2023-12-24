@@ -1,0 +1,16 @@
+A standard way of profiling your data is through Exploratory Data Analysis (EDA). This involves a deep exploration of the data, trying to understand its intricacies and properties as fully as possible, namely through:
+
+Dataset Overview and Characteristics: 
+Determining the number of features and observations, types of features, missing values, duplicate records;
+
+
+Univariate Visualization and Feature Assessment: 
+Analyzing descriptive statistics such as distribution, range, variation, scale, common values, missing values, possible outliers, and evaluating the need for re-indexing, reformatting, or remove values as well as other operations such as data imputation or augmentation;
+
+
+Multivariate Visualization and Correlation Assessment:
+Investigating patterns and relationships between features, behavior or missing values, and assessing the need for dimensionality reduction and feature selection.
+
+
+
+This is a thorough and crucial step in the data science lifecycle, but a very-time consuming one as well.
